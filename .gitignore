@@ -1,0 +1,8 @@
+#Local environment
+.env
+
+#Local venv
+.venv
+
+#Py cache
+_pycache_
