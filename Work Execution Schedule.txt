@@ -1,0 +1,31 @@
+1. **Theoretical preparation, research and study of documentation, search for optimal solutions, theoretical considerations (Overall for the entire project, not just the beginning).**
+   - Time: 2.5 hours
+
+2. **Environment setup and library loading:**
+   - Time: 0.5 hours
+
+3. **Creation of the function for extracting text from PDF:**
+   - Time: 1 hour
+
+4. **Creation of the function for splitting text into parts:**
+   - Time: 1 hour
+
+5. **Creation of the function for creating a vector space:**
+   - Time: 1.5 hours
+
+6. **Processing of user input and generation of response:**
+   - Time: 2 hours
+
+7. **Creation of the data processing chain:**
+   - Time: 2 hours
+
+8. **Processing of test data for running test questions:**
+   - Time: 1 hour
+
+9. **Creation of the function for processing test questions:**
+   - Time: 2 hours
+
+10. **Improvement and adjustment of the user interface:**
+    - Time: 1 hour
+
+I have 2.5 hours left, as I delayed the deadline due to testing restrictions related to the limit on the number of requests per day. There may be errors in the feature with tests.
