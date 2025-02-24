@@ -74,7 +74,6 @@ def main():
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = []
 
-
     if st.sidebar.button("Compare CV and Job"):
         if not cv_file or not job_description.strip():
             st.sidebar.error("Please upload a CV and enter a job description.")
